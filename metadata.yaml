@@ -1,5 +1,5 @@
 _repo: The-Journal-to-Eliza-and-Various-letters_60563
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Draper, Elizabeth
@@ -8,6 +8,9 @@ contributor:
   - agent_name: Cross, Wilbur Lucius
     gutenberg_agent_id: '51022'
     url: http://www.gutenberg.org/2009/agents/51022
+covers:
+- cover_type: archival
+  image_path: 60563-h/images/cover.jpg
 creator:
   author:
     agent_name: Sterne, Laurence
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/419
     wikipedia: http://en.wikipedia.org/wiki/Laurence_Sterne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60563#The-Journal-to-Eliza-and-Various-letters
 gutenberg_issued: '2019-10-24'
 gutenberg_type: Text
 identifiers:
