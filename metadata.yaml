@@ -1,0 +1,32 @@
+_repo: The-Journal-to-Eliza-and-Various-letters_60563
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Draper, Elizabeth
+    gutenberg_agent_id: '51021'
+    url: http://www.gutenberg.org/2009/agents/51021
+  - agent_name: Cross, Wilbur Lucius
+    gutenberg_agent_id: '51022'
+    url: http://www.gutenberg.org/2009/agents/51022
+creator:
+  author:
+    agent_name: Sterne, Laurence
+    alias: Yorick, Mr.
+    birthdate: 1713
+    deathdate: 1768
+    gutenberg_agent_id: '419'
+    url: http://www.gutenberg.org/2009/agents/419
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Sterne
+description: ''
+gutenberg_issued: '2019-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Journal to Eliza and Various letters
+url: http://www.gutenberg.org/ebooks/60563
